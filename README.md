@@ -17,7 +17,7 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | [ClearCare](https://github.com/niwash/ClearCare) | Masters Project: Choosing a nursing home shouldn't be difficult for families and the elderly. | In Progress  
-| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project in bachelors that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions | Complete
+| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| Final Year Project in Bachelor's that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
 | [Discord Bot](https://github.com/twila-habab/HUI) | My lunch break experiment: Creating a Discord Bot with the help of AI | In Progress 
