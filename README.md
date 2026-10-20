@@ -20,7 +20,7 @@
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| Final Year Project in Bachelor's that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
-| [Discord Bot](https://github.com/twila-habab/HUI) | My lunch break experiment: Creating a Discord Bot with the help of AI | In Progress 
+| [Hyper's Unemployed Intern](https://github.com/twila-habab/HUI) | My lunch break experiment: Creating a Discord Bot with the help of Claude Code | In Progress 
 
 [Other Bachelors & Masters Projects](https://github.com/Hyper-TH/College_Projects/tree/master)
 
